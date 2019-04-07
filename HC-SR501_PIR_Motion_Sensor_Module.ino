@@ -1,13 +1,15 @@
 
-//test Github
+
 int ledPin= 13;
 int inputPin= 3;
+
+// test
 
 void setup(){
   pinMode(ledPin, OUTPUT);
   pinMode(inputPin, INPUT);
 }
-
+//test
 void loop(){
   int value= digitalRead(inputPin);
 
