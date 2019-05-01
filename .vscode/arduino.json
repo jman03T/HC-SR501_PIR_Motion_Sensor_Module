@@ -1,5 +1,6 @@
 {
     "board": "arduino:avr:uno",
     "port": "COM6",
-    "programmer": "AVRISP mkII"
+    "programmer": "AVRISP mkII",
+    "sketch": "HC-SR501_PIR_Motion_Sensor_Module_00.ino"
 }

@@ -1,6 +1,7 @@
 int ledPin= 13;
-int inputPin= 3;
-
+int inputPin= 3;  
+//Center pin of for signal
+//Zener diod for 5 v.
 
 
 void setup(){
