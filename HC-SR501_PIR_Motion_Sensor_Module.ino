@@ -1,4 +1,4 @@
-//Center pin of for signal
+//Center pin of for signal.
 //Zener diod for 5 v.
 const int analogInPin = A0;
 const int analogOutPin = 12;
